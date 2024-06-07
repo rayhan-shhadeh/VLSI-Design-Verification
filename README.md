@@ -1,6 +1,6 @@
 # VLSI Design Verification Exercises
 
-Welcome to the VLSI Design Verification repository! This repository contains my class exercises for the VLSI Design Verification course at [Your University]. Here, you will find various projects and assignments that demonstrate my understanding and application of VLSI design and verification techniques.
+Welcome to the VLSI Design Verification repository! This repository contains my class exercises for the VLSI Design Verification course at An-Najah National University. Here, you will find various projects and assignments that demonstrate my understanding and application of VLSI design and verification techniques.
 
 ## Course Details
 
@@ -12,12 +12,6 @@ Welcome to the VLSI Design Verification repository! This repository contains my 
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Setup Instructions](#setup-instructions)
-- [Exercises](#exercises)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Introduction
 
