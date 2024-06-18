@@ -15,7 +15,7 @@ Welcome to the VLSI Design Verification repository! This repository contains my 
 
 ## Introduction
 
-This repository showcases the work done as part of the VLSI Design Verification course. The exercises involve using hardware description languages (HDLs) like Verilog and VHDL, as well as simulation tools and verification methodologies.
+This repository showcases the work done as part of the VLSI Design Verification course. The exercises involve using hardware description languages (HDLs) like Verilog and SystemVerilog, as well as simulation tools and verification methodologies.
 
 ## Setup Instructions
 
