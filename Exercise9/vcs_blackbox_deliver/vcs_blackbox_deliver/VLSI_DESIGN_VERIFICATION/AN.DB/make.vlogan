@@ -1,0 +1,12 @@
+
+VLOGAN	= vlogan
+VLOGAN_OPT	= -sverilog
+
+all :		_VCSgd_8UylHb_1.db \
+
+
+
+_VCSgd_8UylHb_1.db :	reg_ctrl.sv 
+		${VLOGAN}  ${VLOGAN_OPT} reg_ctrl.sv
+
+
